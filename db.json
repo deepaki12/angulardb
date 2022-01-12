@@ -1,0 +1,27 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "Ang Training",
+      "status": "Incomplete"
+    },
+    {
+      "id": 2,
+      "name": "React Training",
+      "status": "comp"
+    },
+    {
+      "id": 3,
+      "name": "  Vue Training",
+      "status": "Complete"
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "userName": "hitin",
+      "userPassword": "hitin",
+      "userEmail": "hitin@gmail.com"
+    }
+  ]
+}
